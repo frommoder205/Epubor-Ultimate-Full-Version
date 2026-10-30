@@ -240,4 +240,4 @@ This repository serves as the official landing page for Epubor Ultimate. The sof
 **Get the most recent version of Epubor Ultimate today!**
 
 ---
-**Last updated:** 2026-10-30 02:18:00 UTC
+**Last updated:** 2026-10-30 09:22:54 UTC
